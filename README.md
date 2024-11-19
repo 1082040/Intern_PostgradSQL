@@ -2,8 +2,8 @@
 ---
 
 ## Table of Contents
-- [Introduction](#introduction)
 - [Features](#features)
+- [Requirements](#Requirements)
 - [Setup Instructions](#setup-instructions)
 - [Notes](#notes)
 
